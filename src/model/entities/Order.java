@@ -1,8 +1,8 @@
-package entities;
+package model.entities;
 
 import java.util.Date;
 
-import enums.OrderStatus;
+import model.enums.OrderStatus;
 
 public class Order {
 	private Date moment;
