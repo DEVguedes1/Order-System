@@ -1,4 +1,4 @@
-package entities;
+package model.entities;
 
 public class Product {
 	private String name;
@@ -29,5 +29,6 @@ public class Product {
 	public void setPrice(Double price) {
 		this.price = price;
 	}
+	
 	
 }
